@@ -1,1 +1,1 @@
-# account_creation_trends_analysis
+# Account creation trends analysis
